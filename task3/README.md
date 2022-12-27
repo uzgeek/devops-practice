@@ -15,4 +15,4 @@ and check every site form txt file
 
 
 ## To run the script
-``` bash task1.sh ```
+``` bash script.sh ```
